@@ -1,23 +1,11 @@
-# Simple Server
+# Module 5: Cloud Deployment
 
-This is a simple web server that serves a single route.
+In Module 5 of the Makers course, I achieved significant milestones that enhanced my understanding and skills in cloud deployment and continuous integration and deployment (CI-CD), preparing me for a successful career as a software engineer:
 
-To set up this project.
+1. **Understanding the Deployment Process:** I gained a clear understanding of how code transitions from running on a local computer to running on a publicly accessible server. This knowledge is vital for deploying and maintaining web applications in a cloud environment.
 
-```bash
-; pipenv install
-; pipenv shell
-; pytest           # Run the tests
-; python app.py    # Run the server
-```
+2. **Knowledge of CI-CD:** I learned how continuous integration and deployment (CI-CD) are used in software teams. This understanding is essential for streamlining the development, testing, and deployment processes within a collaborative development environment.
 
+3. **Database-Backed Web Application Deployment:** I successfully deployed a database-backed web application to the cloud using CI-CD practices. This accomplishment demonstrated my ability to deploy complex applications, including databases, to remote servers efficiently.
 
-<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
-
----
-
-**How was this resource?**  
-[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fcloud-deployment&prefill_File=codebases%2Fsimple_server%2FREADME.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fcloud-deployment&prefill_File=codebases%2Fsimple_server%2FREADME.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fcloud-deployment&prefill_File=codebases%2Fsimple_server%2FREADME.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fcloud-deployment&prefill_File=codebases%2Fsimple_server%2FREADME.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=makersacademy%2Fcloud-deployment&prefill_File=codebases%2Fsimple_server%2FREADME.md&prefill_Sentiment=😀)  
-Click an emoji to tell us.
-
-<!-- END GENERATED SECTION DO NOT EDIT -->
+The accomplishments in Module 5 have equipped me with crucial skills and insights in cloud deployment, CI-CD, and networking. These capabilities enable me to deploy web applications, maintain them in the cloud, and ensure efficient, automated, and reliable software delivery.
